@@ -2,7 +2,7 @@
 # Algorithms_Data_Structures
 This repository contains solutions for Week-2 exercises as part of the Cognizant learning program.
 
-## Exercise 1: Singleton Pattern
+## Exercise 1: E-commerce Platform Search Function
 
 ### Objective
 Implement Linear Search and Binary Search to find products in an e-commerce platform and compare their efficiency.
