@@ -32,7 +32,7 @@ Binary Search is more efficient for large datasets because it reduces the search
 
 ---
 
-## Exercise 2 Financial Forecasting
+## Exercise 2 : Financial Forecasting
 
 ### Objective
 Implement a recursive algorithm to forecast the future value of an investment based on a fixed annual growth rate.
